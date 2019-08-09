@@ -944,3 +944,4 @@ pub mod inactive_w5500;
 pub mod uninitialized_w5500;
 pub mod w5500;
 mod register;
+mod network;
